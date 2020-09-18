@@ -1,5 +1,5 @@
 {
-  "name": "drupal/search_api_federated_solr",
+  "name": "wellcometrust/search_api_federated_solr",
   "type": "drupal-module",
   "description": "Allows indexing multiple Drupal sites into a single Solr search index.",
   "keywords": ["Drupal"],
